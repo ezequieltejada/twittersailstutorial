@@ -1,0 +1,652 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"dele",
+				"deletePost"
+			],
+			[
+				"toastr",
+				"toastrConfig"
+			],
+			[
+				"te",
+				"textarea\tTag"
+			],
+			[
+				"fon",
+				"tempFonts"
+			],
+			[
+				"gul",
+				"gulps\tgulp.src('folder')"
+			],
+			[
+				"open",
+				"opened"
+			],
+			[
+				"autho",
+				"authorization"
+			],
+			[
+				"acc",
+				"accessToken"
+			],
+			[
+				"ac",
+				"accessToken"
+			],
+			[
+				"pro",
+				"profileOauth"
+			],
+			[
+				"tw",
+				"twitterSecret"
+			],
+			[
+				"twi",
+				"twitterToken"
+			],
+			[
+				"oa",
+				"oauth_token_secret"
+			],
+			[
+				"oauth",
+				"oauth_token"
+			],
+			[
+				"temp",
+				"tempIndex"
+			],
+			[
+				"gulp",
+				"gulps\tgulp.src('folder')"
+			],
+			[
+				"vendor",
+				"vendorInject"
+			],
+			[
+				"main",
+				"mainBowerFiles"
+			],
+			[
+				"err",
+				"errorMessage"
+			],
+			[
+				"error",
+				"errorCode"
+			],
+			[
+				"firebase",
+				"firebaseAuth"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "frontend/app/post.js",
+			"settings":
+			{
+				"buffer_size": 1840,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "frontend/gulpfile.js",
+			"settings":
+			{
+				"buffer_size": 2260,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "socialfleet/config/policies.js",
+			"settings":
+			{
+				"buffer_size": 2483,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "frontend/app/index.html",
+			"settings":
+			{
+				"buffer_size": 939,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "frontend/app/post.html",
+			"settings":
+			{
+				"buffer_size": 719,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "frontend/app/app.js",
+			"settings":
+			{
+				"buffer_size": 579,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "socialfleet/api/controllers/PostController.js",
+			"settings":
+			{
+				"buffer_size": 1282,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 368.0,
+		"last_filter": "html",
+		"selected_items":
+		[
+			[
+				"html",
+				"HTMLBeautify"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"be",
+				"Javascript Beautify"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"docum",
+				"Goto Documentation"
+			]
+		],
+		"width": 435.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib2,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation') "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/ezequiel/Escritorio/TwitterSailsTutorial/frontend/bower_components/angular",
+		"/home/ezequiel/Escritorio/TwitterSailsTutorial/frontend/node_modules/arr-flatten",
+		"/home/ezequiel/Escritorio/TwitterSailsTutorial/socialfleet/.tmp",
+		"/home/ezequiel/Escritorio/TwitterSailsTutorial/socialfleet/api/policies",
+		"/home/ezequiel/Escritorio/TwitterSailsTutorial/socialfleet/node_modules/async"
+	],
+	"file_history":
+	[
+		"/home/ezequiel/Escritorio/TwitterSailsTutorial/frontend/app/myposts.html",
+		"/home/ezequiel/Escritorio/TwitterSailsTutorial/frontend/app/app.js",
+		"/home/ezequiel/Escritorio/TwitterSailsTutorial/frontend/app/post.html",
+		"/home/ezequiel/Escritorio/TwitterSailsTutorial/socialfleet/config/policies.js",
+		"/home/ezequiel/Escritorio/TwitterSailsTutorial/socialfleet/api/policies/ownResource.js",
+		"/home/ezequiel/Escritorio/TwitterSailsTutorial/socialfleet/api/controllers/PostController.js",
+		"/home/ezequiel/Escritorio/TwitterSailsTutorial/frontend/app/index.html",
+		"/home/ezequiel/Escritorio/TwitterSailsTutorial/frontend/app/myposts.js",
+		"/home/ezequiel/Escritorio/TwitterSailsTutorial/socialfleet/api/models/Post.js",
+		"/home/ezequiel/Escritorio/TwitterSailsTutorial/frontend/app/scheduler.js",
+		"/home/ezequiel/Escritorio/TwitterSailsTutorial/frontend/gulpfile.js",
+		"/home/ezequiel/Escritorio/TwitterSailsTutorial/frontend/app/login.js",
+		"/home/ezequiel/.config/sublime-text-3/Packages/HTMLBeautify/HTMLBeautify.sublime-settings",
+		"/home/ezequiel/Escritorio/TwitterSailsTutorial/socialfleet/app.js",
+		"/home/ezequiel/Escritorio/TwitterSailsTutorial/socialfleet/api/controllers/UserController.js",
+		"/home/ezequiel/Escritorio/TwitterSailsTutorial/socialfleet/api/models/User.js",
+		"/home/ezequiel/Escritorio/TwitterSailsTutorial/frontend/temp/index.html",
+		"/home/ezequiel/Escritorio/TwitterSailsTutorial/socialfleet/api/policies/jwtAuth.js",
+		"/home/ezequiel/.config/sublime-text-3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/home/ezequiel/.config/sublime-text-3/Packages/Javascript Beautify/JavascriptBeautify.sublime-settings",
+		"/home/ezequiel/.config/sublime-text-3/Packages/User/JavascriptBeautify.sublime-settings",
+		"/home/ezequiel/Escritorio/TwitterSailsTutorial/socialfleet/api/services/config.js",
+		"/home/ezequiel/Escritorio/TwitterSailsTutorial/frontend/temp/app.js",
+		"/home/ezequiel/Escritorio/TwitterSailsTutorial/frontend/bower.json",
+		"/home/ezequiel/Escritorio/TwitterSailsTutorial/socialfleet/config/models.js",
+		"/home/ezequiel/Escritorio/gestit/app/scripts/app.js",
+		"/home/ezequiel/Escritorio/gestit/app/index.html",
+		"/home/ezequiel/Escritorio/gestit/app/views/login.html",
+		"/home/ezequiel/Escritorio/gestit/app/views/register.html",
+		"/home/ezequiel/Escritorio/gestit/app/scripts/controllers/register.js",
+		"/home/ezequiel/Escritorio/gestit/app/scripts/controllers/login.js",
+		"/home/ezequiel/Escritorio/gestit/app/scripts/services/auth.js",
+		"/home/ezequiel/Escritorio/gestit/app/views/auth.html",
+		"/home/ezequiel/Escritorio/tasaScrapper/express/app.js",
+		"/home/ezequiel/Escritorio/node-js-getting-started/index.js"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 100.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"post",
+			"String",
+			"index",
+			"bower",
+			"scripts",
+			"'temp'",
+			"username",
+			"Username",
+			"username"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "frontend/app/post.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1840,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								649,
+								649
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/predawn.tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "frontend/gulpfile.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 2260,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/predawn.tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 855.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "socialfleet/config/policies.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2483,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								404,
+								404
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/predawn.tmTheme",
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "frontend/app/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 939,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								580,
+								580
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/predawn.tmTheme",
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "frontend/app/post.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 719,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								548,
+								548
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/predawn.tmTheme",
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "frontend/app/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 579,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								579,
+								579
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/predawn.tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "socialfleet/api/controllers/PostController.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1282,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								641,
+								641
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/predawn.tmTheme",
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "twitterSails.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"post",
+				"frontend/app/post.html"
+			],
+			[
+				"index",
+				"frontend/app/index.html"
+			],
+			[
+				"poli",
+				"socialfleet/config/policies.js"
+			],
+			[
+				"postcen",
+				"socialfleet/api/controllers/PostController.js"
+			],
+			[
+				"app",
+				"frontend/app/app.js"
+			],
+			[
+				"polici",
+				"socialfleet/config/policies.js"
+			],
+			[
+				"sche",
+				"frontend/app/scheduler.js"
+			],
+			[
+				"gul",
+				"frontend/gulpfile.js"
+			],
+			[
+				"login",
+				"frontend/app/login.js"
+			],
+			[
+				"user",
+				"socialfleet/api/models/User.js"
+			],
+			[
+				"usercon",
+				"socialfleet/api/controllers/UserController.js"
+			],
+			[
+				"gulp",
+				"frontend/gulpfile.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 245.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

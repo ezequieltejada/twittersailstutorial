@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="app">
+	<head>
+		<meta charset="UTF-8">
+		<title>My Index</title>
+		<!-- vendorInject:css -->
+		<!-- endinject -->
+		<!-- inject:css -->
+		<!-- endinject -->
+	</head>
+	<body ng-controller="Login">
+		<nav class="navbar navbar-default">
+			<div class="container">
+				<button class="btn btn-default navbar-btn" ui-sref="posts">My Posts</button>
+				<button class="btn btn-primary navbar-btn" ui-sref="post">New Post</button>
+				<button ng-show="isAuthenticated()" class="btn btn-link pull-right navbar-btn" ng-click="logout()">Logout</button>
+			</div>
+		</nav>
+		<div class="container">
+			<button ng-hide="isAuthenticated()" class="btn btn-primary" ng-click="login()">Login</button>
+			<div class="col-sm-8 col-md-6 col-md-offset-3 col-sm-offset-2">
+				<div ui-view></div>
+			</div>
+		</div>
+		<!-- vendorInject:js -->
+		<!-- endinject -->
+		<!-- inject:js -->
+		<!-- endinject -->
+	</body>
+</html>
